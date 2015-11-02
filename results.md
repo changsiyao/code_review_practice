@@ -8,9 +8,9 @@
 
 2. jara_num_solutions.py
 
-    * extract:
-    * get_position:
-    * get_index:
+    * extract: code is clear and brief, runs very efficiently.
+    * get_position: code is very readable and short, runs smoothly.
+    * get_index: code is clear, readable, efficient.
 
 3. pigriver123_num_solutions.py
 
